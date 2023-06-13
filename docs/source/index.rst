@@ -1,3 +1,15 @@
+TTV Smash '70 
+##############
+
+Wil je muziek luisteren of TV kijken bij Smash? Volg dan onderstaande stappen:
+
+:ref:`muziek`
+
+:ref:`tv`
+
+
+.. _muziek:
+
 Ik wil muziek luisteren
 =======================
 
@@ -36,6 +48,7 @@ Ik wil muziek luisteren
 
    .. image:: media/image12.png
 
+.. _muziek:
 
 Ik wil TV kijken
 ================
