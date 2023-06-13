@@ -34,6 +34,6 @@ Ik wil muziek luisteren
 8. Volume wordt geregeld met de rechter draaiknop op de versterker óf
    met de knoppen aan de rechterzijkant van afstandsbediening 3.
    
-   .. image:: media/image11.png 
+.. image:: media/image11.png 
 
-   .. image:: media/image12.png
+.. image:: media/image12.png
