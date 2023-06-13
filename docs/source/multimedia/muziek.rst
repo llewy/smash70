@@ -1,9 +1,10 @@
 .. _muziek:
 
 Ik wil muziek luisteren
-=======================
+#######################
 
-1. Versterker(1) inschakelen met de **aan/uit** knop.
+
+1. Versterker inschakelen met de **aan/uit** knop.
 
 .. image:: media/image6.png
 

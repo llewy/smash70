@@ -1,7 +1,8 @@
 .. _tv:
 
 Ik wil TV kijken
-================
+################
+
 
 1. Versterker(1) inschakelen met de aan/uit knop.
 
