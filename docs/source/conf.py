@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'TTV Smash '70'
+project = 'TTV Smash 70'
 copyright = '2023, Carl van Oene'
 author = 'Carl van Oene'
 
