@@ -48,7 +48,7 @@ Ik wil muziek luisteren
 
    .. image:: media/image12.png
 
-.. _muziek:
+.. _tv:
 
 Ik wil TV kijken
 ================
