@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TTV Smash '70'
+copyright = '2023, Carl van Oene'
+author = 'Carl van Oene'
 
 release = '0.1'
 version = '0.1.0'

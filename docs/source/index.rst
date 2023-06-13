@@ -4,7 +4,9 @@ Handleiding Beeld en Geluid TTV Smash ‘70\
 
 
 .. image:: media/image1.png
+
 1. Versterker, staat in de keuken
+
 .. image:: media/image2.png
 .. image:: media/image3.png
 .. image:: media/image4.png
