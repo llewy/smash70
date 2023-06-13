@@ -36,58 +36,34 @@ Ik wil muziek luisteren
    totdat TV/Sat in beeld staat:
 
 .. image:: media/image7.png
-   :alt: Afbeelding met Huishoudelijk apparaat, keukenapparaat,
-   Apparaatje, machine Automatisch gegenereerde beschrijving
-   :width: 2.63542in
-   :height: 2.47917in
 
 3. Chromecast wakker maken met afstandsbediening 3, druk op de middelste
    knop:
 
 .. image:: media/image8.png
-   :alt: Afbeelding met cirkel, ontwerp Automatisch gegenereerde
-   beschrijving
-   :width: 2.89583in
-   :height: 2.33297in
 
 4. Televisie inschakelen met afstandsbediening 5, druk op de rode knop
    en richt op de TV:
 
 .. image:: media/image9.png
-   :alt: Afbeelding met tekst, Elektronisch apparaat, rekenmachine
-   Automatisch gegenereerde beschrijving
-   :width: 2.60592in
-   :height: 1.89281in
 
 5. Zorg dat de televisie op HDMI 1 staat, middels de SOURCE-knop op
    afstandsbediening 5:
 
 .. image:: media/image9.png
-   :alt: Afbeelding met tekst, Elektronisch apparaat, rekenmachine
-   Automatisch gegenereerde beschrijving
-   :width: 2.58113in
-   :height: 1.8748in
 
 6. Druk op de afstandsbediening op de HOME-knop en selecteer vervolgens
    de app SPOTIFY. De ronde bovenste knoppen fungeren als pijltjes.
    Bevestigen is de middelste knop:
 
-..
-
-   .. image:: media/image10.png
-      :alt: Afbeelding met cirkel, afstandsbediening, ontwerp
-      Automatisch gegenereerde beschrijving
-      :width: 1.54839in
-      :height: 2.00983in
+.. image:: media/image10.png
 
 7. Kies de gewenste afspeellijst, artiest etc.
 
 8. Volume wordt geregeld met de rechter draaiknop op de versterker óf
    met de knoppen aan de rechterzijkant van afstandsbediening 3.
 
-|Afbeelding met Huishoudelijk apparaat, keukenapparaat, Apparaatje,
-camera Automatisch gegenereerde beschrijving|\ |Afbeelding met cirkel,
-schermopname, ontwerp Automatisch gegenereerde beschrijving|
+
 
 Ik wil TV kijken
 ================
