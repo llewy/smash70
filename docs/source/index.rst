@@ -1,29 +1,3 @@
-===============
-Handleiding Beeld en Geluid TTV Smash ‘70\
-===============
-
-
-.. image:: media/image1.png
-
-1. Versterker, staat in de keuken
-
-.. image:: media/image2.png
-.. image:: media/image3.png
-.. image:: media/image4.png
-.. image:: media/image5.png
-
-.. _section-1:
-
-1. Versterker, staat in de keuken
-
-2. Afstandsbediening Beamer
-
-3. Afstandsbediening Chromecast
-
-4. Afstandsbediening Beamerscherm
-
-5. Afstandsbediening TV
-
 Ik wil muziek luisteren
 =======================
 
@@ -65,7 +39,6 @@ Ik wil muziek luisteren
    .. image:: media/image11.png 
 
    .. image:: media/image12.png
-
 
 
 Ik wil TV kijken
@@ -125,4 +98,26 @@ Ik wil TV kijken
 11. Zorg dat de beamer op HDMI 1 staat met afstandsbediening 2:
 
 .. image:: media/image15.png
+
+Apparaten en afstandsbedieningen
+================
+
+1. Versterker, staat in de keuken
+.. image:: media/image1.png
+
+2. Afstandsbediening Beamer
+.. image:: media/image2.png
+
+3. Afstandsbediening Chromecast
+.. image:: media/image3.png
+
+4. Afstandsbediening Beamerscherm
+.. image:: media/image4.png
+
+5. Afstandsbediening TV
+.. image:: media/image5.png
+
+
+
+
 
