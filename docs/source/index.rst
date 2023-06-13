@@ -30,7 +30,6 @@ Ik wil muziek luisteren
 1. Versterker(1) inschakelen met de aan/uit knop.
 
 .. image:: media/image6.png
-   :width: 800
 
 2. Zorg dat de bron op TV/Sat staat, draaien aan de **linker** draaiknop
    totdat TV/Sat in beeld staat:
