@@ -1,27 +1,23 @@
 Ik wil muziek luisteren
 =======================
 
-1. Versterker(1) inschakelen met de aan/uit knop.
+1. Versterker(1) inschakelen met de **aan/uit** knop.
 
 .. image:: media/image6.png
 
-2. Zorg dat de bron op TV/Sat staat, draaien aan de **linker** draaiknop
-   totdat TV/Sat in beeld staat:
+2. Zorg dat de bron op **TV/Sat** staat, draaien aan de **linker** draaiknop totdat **TV/Sat** in beeld staat:
 
 .. image:: media/image7.png
 
-3. Chromecast wakker maken met afstandsbediening 3, druk op de middelste
-   knop:
+3. Chromecast wakker maken met afstandsbediening 3, druk op de **middelste knop** :
 
 .. image:: media/image8.png
 
-4. Televisie inschakelen met afstandsbediening 5, druk op de rode knop
-   en richt op de TV:
+4. Televisie inschakelen met afstandsbediening 5, druk op de **rode knop** en richt op de TV:
 
 .. image:: media/image9.png
 
-5. Zorg dat de televisie op HDMI 1 staat, middels de SOURCE-knop op
-   afstandsbediening 5:
+5. Zorg dat de televisie op **HDMI 1** staat, middels de **SOURCE-knop** op afstandsbediening 5:
 
 .. image:: media/image9.png
 
