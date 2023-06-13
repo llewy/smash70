@@ -1,23 +1,24 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: :material-regular:`microwave_gem;2em` Keuken
+   :caption: Keuken
 
-   /keuken/
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: :material-regular:`sports_bar;2em` Keuken
-
-   /bar/
+   /keuken/keuken
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: :material-regular:`tv;2em` Keuken
+   :caption: Bar
 
-   /multimedia/
+   /bar/bar
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Multimedia
+
+   /multimedia/tv
+   /multimedia/muziek
 
 TTV Smash '70 
 ##############
