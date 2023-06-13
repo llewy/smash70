@@ -1,6 +1,10 @@
-Handleiding Beeld en Geluid TTV Smash ‘70\ |image1|
+===============
+Handleiding Beeld en Geluid TTV Smash ‘70\
+===============
+
 
 .. image:: media/image1.png
+1. Versterker, staat in de keuken
 .. image:: media/image2.png
 .. image:: media/image3.png
 .. image:: media/image4.png
@@ -24,8 +28,7 @@ Ik wil muziek luisteren
 1. Versterker(1) inschakelen met de aan/uit knop.
 
 .. image:: media/image6.png
-   :width: 2.90625in
-   :height: 3.20833in
+   :width: 800
 
 2. Zorg dat de bron op TV/Sat staat, draaien aan de **linker** draaiknop
    totdat TV/Sat in beeld staat:
