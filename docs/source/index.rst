@@ -1,12 +1,10 @@
 Handleiding Beeld en Geluid TTV Smash ‘70\ |image1|
 
-|Afbeelding met afstandsbediening, op afstand, tekst, controle
-Automatisch gegenereerde beschrijving|\ |Afbeelding met elektronica,
-afstandsbediening, op afstand, Elektronisch apparaat Automatisch
-gegenereerde beschrijving|\ |Afbeelding met tekst, Materiaaleigenschap,
-op afstand, overdekt Automatisch gegenereerde beschrijving|\ |Afbeelding
-met tekst, afstandsbediening, controle, overdekt Automatisch
-gegenereerde beschrijving|
+.. image:: media/image1.png
+.. image:: media/image2.png
+.. image:: media/image3.png
+.. image:: media/image4.png
+.. image:: media/image5.png
 
 .. _section-1:
 
@@ -26,8 +24,6 @@ Ik wil muziek luisteren
 1. Versterker(1) inschakelen met de aan/uit knop.
 
 .. image:: media/image6.png
-   :alt: Afbeelding met tekst, gadget, elektronica, Elektronisch
-   apparaat Automatisch gegenereerde beschrijving
    :width: 2.90625in
    :height: 3.20833in
 
