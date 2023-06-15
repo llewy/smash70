@@ -11,6 +11,7 @@
    :caption: Bar
 
    /bar/bar
+   /bar/pinapparaat
 
 .. toctree::
    :maxdepth: 2
