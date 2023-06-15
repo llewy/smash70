@@ -10,15 +10,15 @@ Pintransactie starten
 
 1. Druk op de knop **F2 - BETALING**.
 
-.. image:: media/pin1.png
+.. image:: media/pin1.PNG
 
 2. Voer het bedrag in **centen** in, 1 euro wordt 100:
 
-.. image:: media/pin2.png
+.. image:: media/pin2.PNG
 
 3. Druk op de **groene knop** :
 
-.. image:: media/pin3.png
+.. image:: media/pin3.PNG
 
 4. Klant kan pas op de klantterminal leggen of onderin invoeren. Bij een geslaagde transactie komt er een bon uit de barterminal.
 
