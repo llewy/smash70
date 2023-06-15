@@ -29,7 +29,7 @@ Water bijvullen
 
 Open het klepje aan de bovenzijde en til de waterbak eruit:
 
-.. image:: media/bonrol.gif
+.. image:: media/water.gif
 
 Afvalbak legen
 ******************
