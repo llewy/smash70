@@ -3,7 +3,9 @@
    :hidden:
    :caption: Keuken
 
-   /keuken/keuken
+   /keuken/magnetron
+   /keuken/oven
+   /keuken/vaatwasser
 
 .. toctree::
    :maxdepth: 2
@@ -12,7 +14,8 @@
 
    /bar/bar
    /bar/pinapparaat
-   /bar/koffiemachine
+   /bar/bonenmachine
+   /bar/filtermachine
 
 .. toctree::
    :maxdepth: 2
@@ -30,7 +33,6 @@ TTV Smash '70
 Wil je muziek luisteren of TV kijken bij Smash? Volg dan onderstaande stappen:
 
 :ref:`muziek`
-
 :ref:`tv`
 
 :ref:`apparaten`
