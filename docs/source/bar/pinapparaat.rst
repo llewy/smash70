@@ -26,6 +26,6 @@ Pintransactie starten
 Bonrol verwisselen
 ******************
 
-Open het klepje aan de bovenzijde, verwijder het oude plastic rolletje en doe er een nieuwe in. Liggen in rechter keukenlade:
+Open het klepje aan de bovenzijde, verwijder het oude plastic rolletje en doe er een nieuwe in. Let op de juiste manier van plaatsen, het papier moet aan de **voorzijde** naar boven komen. Nieuwe rollen liggen in de rechter keukenlade.
 
 .. image:: media/bonrol.gif
