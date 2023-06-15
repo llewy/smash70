@@ -8,11 +8,13 @@ De bonenmachine wordt bij voorkeur zoveel mogelijk gebruikt om koffie voor gaste
 Koffie zetten
 *********************
 
-1. Druk op de knop **F2 - BETALING**.
+1. Druk op de knop bovenop het apparaat om de machine in te schakelen. Machine zal dan gaan
 
-.. image:: media/image6.png
+.. image:: media/bonen0.PNG
 
-2. Voer het bedrag in **centen** in, 1 euro wordt 100:
+.. image:: media/bonen1.PNG
+
+2. Druk op de  voor :
 
 .. image:: media/image7.png
 
