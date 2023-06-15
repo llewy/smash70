@@ -33,32 +33,27 @@ Heb je bardienst, top! Dan heb je vast wat vragen over de werkwijze van alle app
 
 Keuken
 ***********************
-.. toctree::
-   :maxdepth: 2
 
-   /keuken/magnetron
-   /keuken/oven
-   /keuken/vaatwasser
+.. toctree::
+   :maxdepth: 1
+
+   keuken
 
 Bar
 ***********************
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   /bar/bar
-   /bar/pinapparaat
-   /bar/bonenmachine
-   /bar/filtermachine
+   bar
 
 Multimedia
 ***********************
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   /multimedia/tv
-   /multimedia/muziek
+   multimedia
 
 .. warning::
    Werkt er iets niet? Ga dan niet aan kabels knutselen maar vraag om hulp ;-)
