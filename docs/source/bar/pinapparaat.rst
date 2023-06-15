@@ -21,7 +21,7 @@ Pintransactie starten
 .. image:: media/pin3.PNG
 
 4. Klant kan pas op de klantterminal leggen of onderin invoeren. Bij een geslaagde transactie komt er een bon uit de barterminal.
-
+ 
 
 Bonrol verwisselen
 ******************
