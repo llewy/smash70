@@ -12,6 +12,7 @@
 
    /bar/bar
    /bar/pinapparaat
+   /bar/koffiemachine
 
 .. toctree::
    :maxdepth: 2
