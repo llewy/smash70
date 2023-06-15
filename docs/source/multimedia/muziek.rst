@@ -1,6 +1,6 @@
 .. _muziek:
 
-Ik wil muziek luisteren
+Muziek luisteren
 #######################
 
 

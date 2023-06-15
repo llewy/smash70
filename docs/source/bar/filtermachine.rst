@@ -27,3 +27,6 @@ Koffie warmhouden
 Om een gezette kan warm te houden kan er gebruik worden gemaakt van het warmhoudplateau bovenop het apparaat. Plaats de **gevulde** kan op het warmhoudplateau en schakel de bovenste knop in:
 
 .. image:: media/filter4.PNG
+
+.. warning::
+   Zet geen lege kan op het warmhoudplateau, de kans is aanwezig dat het glas dan knapt!

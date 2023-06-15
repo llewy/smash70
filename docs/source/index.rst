@@ -6,6 +6,13 @@ Heb je bardienst, top! Dan heb je vast wat vragen over de werkwijze van alle app
 
 .. toctree::
    :maxdepth: 2
+   :caption: Multimedia
+
+   /multimedia/tv
+   /multimedia/muziek
+
+.. toctree::
+   :maxdepth: 2
    :caption: Keuken
 
    /keuken/magnetron
@@ -20,13 +27,6 @@ Heb je bardienst, top! Dan heb je vast wat vragen over de werkwijze van alle app
    /bar/pinapparaat
    /bar/bonenmachine
    /bar/filtermachine
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Multimedia
-
-   /multimedia/tv
-   /multimedia/muziek
 
 .. warning::
    Werkt er iets niet? Ga dan niet aan kabels knutselen maar vraag om hulp ;-)

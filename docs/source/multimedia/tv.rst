@@ -1,6 +1,6 @@
 .. _tv:
 
-Ik wil TV kijken
+TV/Beamer kijken
 ################
 
 
