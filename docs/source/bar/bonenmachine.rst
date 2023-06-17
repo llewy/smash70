@@ -1,6 +1,6 @@
-.. _pin:
+.. _bonen:
 
-Koffiemachine
+Koffiemachine - bonen
 #######################
 
 De bonenmachine wordt bij voorkeur zoveel mogelijk gebruikt om koffie voor gasten te zetten. 
