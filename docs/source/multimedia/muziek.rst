@@ -16,13 +16,15 @@ Muziek luisteren
 
 .. image:: media/image8.png
 
-4. Televisie inschakelen met afstandsbediening 5, druk op de **rode knop** en richt op de TV:
+4. Televisie inschakelen met afstandsbediening 3, druk op aan-knop
+   en richt op de TV:
 
-.. image:: media/image9.png
+.. image:: media/chromecast1.PNG
 
-5. Zorg dat de televisie op **HDMI 1** staat, middels de **SOURCE-knop** op afstandsbediening 5:
+5. Zorg dat de televisie op HDMI 1 staat, middels de SOURCE-knop op
+   afstandsbediening 3, meerdere keren drukken verandert het kanaal:
 
-.. image:: media/image9.png
+.. image:: media/chromecast2.PNG
 
 6. Druk op de afstandsbediening op de HOME-knop en selecteer vervolgens
    de app SPOTIFY. De ronde bovenste knoppen fungeren als pijltjes.
