@@ -42,4 +42,4 @@ Muziek luisteren
 .. image:: media/image12.png
 
 .. warning::
-Werkt er iets niet? Check de pagina :ref:`problemen`.
+   Werkt er iets niet? Check de pagina :ref:`problemen`.
