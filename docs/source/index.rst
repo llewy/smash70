@@ -10,6 +10,7 @@ Heb je bardienst, top! Dan heb je vast wat vragen over de werkwijze van alle app
 
    /multimedia/tv
    /multimedia/muziek
+   /multimedia/problemen
 
 .. toctree::
    :maxdepth: 1
