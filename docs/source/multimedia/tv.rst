@@ -58,3 +58,6 @@ TV/Beamer kijken
 11. Zorg dat de beamer op HDMI 1 staat met afstandsbediening 2:
 
 .. image:: media/image15.png
+
+.. warning::
+Werkt er iets niet? Check de pagina :ref:`problemen`.
