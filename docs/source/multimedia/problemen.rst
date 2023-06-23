@@ -18,7 +18,7 @@ Knippert deze? Maak dan de Chromecast 'wakker' door op één van de bovenste kno
 Geen geluid
 ***********
 
-Controleer of het volume op de versterker (>40) en de tv (>25) hoog genoeg staat. De versterker bedien je door te draaien aan de rechter draaiknop, de TV door op de witte afstandsbediening de knoppen aan de rechterzijkant te gebruiken.
+Controleer of het volume op de versterker (>40) en de tv (>20) hoog genoeg staat. De versterker bedien je door te draaien aan de rechter draaiknop, de TV door op de witte afstandsbediening de knoppen aan de rechterzijkant te gebruiken.
 Staat het volume hard genoeg? Controleer dan of speakers ingeschakeld zijn, op het display moet bovenin SP->AB staan. 
 
 .. image:: media/spab.PNG
