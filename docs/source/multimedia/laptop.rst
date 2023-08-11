@@ -29,10 +29,10 @@ Laptop naar beamer
 .. image:: media/chromecast2.PNG
 
 9. Om het scherm naar beneden te laten zakken, druk 1 maal op DOWN op afstandsbediening 4. Let op, het
-   scherm stopt vanzelf op de juiste hoogte!
+   scherm stopt vanzelf op de juiste hoogte! 
 
 .. image:: media/image13.png
-
+ 
 10. Schakel de beamer in met afstandsbediening 2, druk op de ON knop
     terwijl je **onder** de beamer staat en omhoog mikt.
 
