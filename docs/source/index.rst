@@ -30,5 +30,11 @@ Heb je bardienst, top! Dan heb je vast wat vragen over de werkwijze van alle app
    /bar/bonenmachine
    /bar/filtermachine
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Speelmateriaal
+
+   /speelmateriaal/netjes
+
 .. warning::
    Werkt er iets niet? Ga dan niet aan kabels knutselen maar vraag om hulp ;-)
