@@ -27,4 +27,6 @@ Is dit niet zo? Druk dan op de knop **SPEAKERS** onder het display, net zo lang 
 
 .. image:: media/speakers.PNG
 
+Nog geen geluid? Controleer dan of de stand **STEREO** is ingeschakeld, druk meermaals op de knop **STEREO** totdat **STEREO** in beeld staat
+
 
