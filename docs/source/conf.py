@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'TTV Smash 70'
-copyright = '2023, Carl van Oene'
+copyright = '%Y, TTV Smash 70'
 author = 'Carl van Oene'
 
 release = '0.1'
