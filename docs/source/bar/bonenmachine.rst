@@ -12,7 +12,7 @@ Koffie zetten
 
 .. image:: media/bonen_turn_on.webp
 
-.. image:: media/bonen_turn_on2.webp
+.. image:: media/bonen_turn_on_2.webp
 
 
 Water bijvullen
